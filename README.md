@@ -20,12 +20,12 @@ pip3 install paramiko
 ## 1. 只扫描一台主机
 
 ```
-# python3 bf-password.py 192.168.10.16 root
+# python3 bf-password.py 192.168.16.16 root
 
 192.168.16.16 root 123456
 ```
 ```
-# python3 bf-password.py 192.168.10.16 username
+# python3 bf-password.py 192.168.16.16 username
 
 192.168.16.16 username abc,123
 ```
