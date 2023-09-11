@@ -5,6 +5,7 @@
 
 # 安装依赖
 pip3 install gevent
+pip3 install paramiko
 
 # 密码文件
 ./passwd
