@@ -19,13 +19,13 @@ pip3 install gevent
 
 ```
 # python3 bf-password.py 192.168.10.16 root
-#
-# 192.168.16.16 root 123456
+
+192.168.16.16 root 123456
 ```
 ```
 # python3 bf-password.py 192.168.10.16 username
-#
-# 192.168.16.16 username abc,123
+
+192.168.16.16 username abc,123
 ```
 
 ## 2. 扫描多台主机
